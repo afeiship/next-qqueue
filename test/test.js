@@ -8,6 +8,7 @@ var promiseFn = function(inData){
     defferd.resolve(
       nx.mix({name:'fei test 1000s'},inData)
     );
+    // console.log(1233);
   },Math.random()*3*1000)
   return defferd.promise;
 };
