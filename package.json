@@ -1,8 +1,8 @@
 {
-  "name": "q-queue",
+  "name": "next-qqueue",
   "version": "0.0.0",
   "description": "Queue for Q.js.",
-  "homepage": "https://github.com/afeiship/q-queue",
+  "homepage": "https://github.com/afeiship/next-qqueue",
   "author": {
     "name": "afei",
     "email": "1290657123@qq.com"
@@ -10,7 +10,7 @@
   "scripts": {
     "build": "gulp"
   },
-  "main": "dist/q-queue.js",
+  "main": "dist/next-qqueue.js",
   "license": "MIT",
   "devDependencies": {
     "del": "^2.2.1",

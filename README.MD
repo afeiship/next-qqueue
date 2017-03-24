@@ -1,4 +1,4 @@
-# q-queue
+# next-qqueue
 > Queue for Q.js.
 
 

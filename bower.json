@@ -1,7 +1,7 @@
 {
-  "name": "q-queue",
+  "name": "next-qqueue",
   "description": "Queue for Q.js.",
-  "main": "dist/q-queue.js",
+  "main": "dist/next-qqueue.js",
   "authors": [
     "afei"
   ],
@@ -9,7 +9,7 @@
   "keywords": [
     "next"
   ],
-  "homepage": "https://github.com/afeiship/q-queue",
+  "homepage": "https://github.com/afeiship/next-qqueue",
   "moduleType": [
     "amd"
   ],
